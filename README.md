@@ -1,0 +1,2 @@
+# training-algos
+Training Codingame
