@@ -1,2 +1,2 @@
 # training-algos
-Training Codingame
+Training Algos and One Liners
